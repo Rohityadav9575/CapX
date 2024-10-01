@@ -46,7 +46,7 @@ By providing both current price information and contextual percentage change, th
 To run the app directly on your mobile device:
 
 1. **Download the APK File**:
-   - Download the APK file from the link provided in PDF send to Unstop CapX submit form .
+   - Download the APK file from the link provided in PDF send to Unstop CapX submit form OR Directly download app debug.apk file from this repo .
 
 2. **Install the APK**:
    - Open the downloaded APK file on your device.
